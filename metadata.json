@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Assistant and Notes",
+  "description": "A smart personal workspace featuring a conversational Gemini AI Assistant, local notes organizer with AI summarization, and a dynamic daily dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
